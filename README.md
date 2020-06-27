@@ -23,16 +23,25 @@ SoFi, the leading marketplace lender for financially responsible consumers, toda
 
 ---
 ## Recommendations
-SoFi’s expensive marketing machine appeared to at least be delivering high-quality prime borrowers at a reliable clip. But customers missed loan payments at an “unexpectedly high rate” in the fourth quarter of 2017, according to the Wall Street Journal. SoFi may have to update the company’s credit models and revisit its marketing strategy in order to get loan performance back on track.SoFi also only offers up to 12 months of forbearance as opposed to their  competitors who offer longer periods. In order to be more of an incentive for a prospective customer to be more likely to choose SoFi they could match or increase the length of forbearance they offer to their customers as opposed to their competitors.
+SoFi’s expensive marketing machine appeared to at least be delivering high-quality prime borrowers at a reliable clip. But customers missed loan payments at an “unexpectedly high rate” in the fourth quarter of 2017, according to the Wall Street Journal. SoFi may have to update the company’s credit models and revisit its marketing strategy in order to get loan performance back on track. SoFi also only offers up to 12 months of forbearance as opposed to their  competitors who offer longer periods. In order to be more of an incentive for a prospective customer to be more likely to choose SoFi they could match or increase the length of forbearance they offer to their customers as opposed to their competitors.
 
 ---
 ## Reference:
+
 Admin. (2017, May 21). The Pros and Cons of Using SoFi to Refinance Your Student Loans. Retrieved June 27, 2020, from https://www.everydayfinancialplanner.com/2017/05/21/the-pros-and-cons-of-using-sofi-to-refinance-your-student-loans/
+
 Harris, A. (2018, March 08). SoFi Is Paying Top Dollar To Acquire Its Prime Customers. Retrieved June 27, 2020, from https://www.fastcompany.com/40539348/sofi-pays-premium-prices-to-acquire-its-prime-customers
+
 Jim Marous, C. (2017, June 23). SoFi Wants to Steal Your Most Coveted Customers. Retrieved June 27, 2020, from https://thefinancialbrand.com/65922/sofi-digital-banking-fintech-competition/
+
 Lee, J., & Lee Jeanne Lee is former personal finance writer for NerdWallet. She previously wrote for Fortune and Money magazines. Read more emailEmail, J. (2020, March 27). SoFi vs. Prosper: How They Compare for Personal Loans. Retrieved June 27, 2020, from https://www.nerdwallet.com/blog/loans/sofi-vs-prosper-compare-personal-loans/
+
 Loizos, C. (2019, May 29). Online lender SoFi has quietly raised $500 million in funding, led by Qatar. Retrieved June 23, 2020, from https://techcrunch.com/2019/05/29/online-lender-sofi-has-quietly-raised-500-million-in-funding-led-by-qatar/?guccounter=1
+
 Proctor, C. (2020, March 18). Refinancing your student loans with SoFi could save you money - and even help you get a better mortgage rate. Retrieved June 27, 2020, from https://www.businessinsider.com/personal-finance/sofi-student-loan-refinancing-review-and-how-it-works
+
 Rooney, K. (2019, May 29). Lending start-up SoFi closes $500 million funding round, led by Qatar. Retrieved June 25, 2020, from https://www.cnbc.com/2019/05/29/lending-start-up-sofi-closes-500-million-funding-round-led-by-qatar.html
+
 S. (2020). SoFi Surpasses $6 Billion in Funded Loans, Bolsters Leadership Team. Retrieved June 27, 2020, from https://www.sofi.com/press/sofi-supasses-6-billion-in-loans/
+
 Tretina, K. (2019, July 09). 6 Awesome Benefits of SoFi Student Loans for Parents. Retrieved June 26, 2020, from https://studentloanhero.com/featured/sofi-student-loans-awesome-benefits-parent/
